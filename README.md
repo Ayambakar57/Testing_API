@@ -1,4 +1,4 @@
-# FastAPI Sales Management API
+# FastAPI Sales Management API (Testing_API)
 
 A RESTful API for Sales Management System built with FastAPI and SQLAlchemy.
 
@@ -23,8 +23,8 @@ A RESTful API for Sales Management System built with FastAPI and SQLAlchemy.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi_sales.git
-cd fastapi_sales
+git clone https://github.com/Ayambakar57/Testing_API.git
+cd Testing_API
 ```
 
 2. Create and activate a virtual environment
